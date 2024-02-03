@@ -1,0 +1,2 @@
+Fərz edək ki, classımızda çoxlu dəyişənlər var. Obyekt yaradılanda gərək biz bütün dəyişənləri daxil edək.
+Amma biz bəzi dəyişənləri daxil etmək və classın immutable olmasını istəyiriksə Builder Pattern istifadə edə bilərik. 

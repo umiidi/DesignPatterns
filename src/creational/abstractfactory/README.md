@@ -1,0 +1,2 @@
+Abstract Factory Patterni Factory Patternlərinin birləşmiş forması kimi düşünmək olar. 
+Məqsəd Factory Patternlə demək olar ki, eynidir. Çoxlu subclasslar olduqda onları yaratmaq üçün ən yaxşı üsuldur.
